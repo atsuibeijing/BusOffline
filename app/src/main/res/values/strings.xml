@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BusOffline</string>    
+    <string name="searchBatHint">請輸入車號或者車站名稱來搜尋</string>
+	<string name="PathFounding">全港交通大全</string>
+</resources>
+
+

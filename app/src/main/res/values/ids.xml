@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="id" name="topbar">false</item>
+	<item type="id" name="titleLabel">false</item>
+	<item type="id" name="search_NumberFrameLayout">false</item>
+	<item type="id" name="search_NumberText">false</item>
+	<item type="id" name="frameLayout1">false</item>	
+	<item type="id" name="searchNumberListView">false</item>
+	<item type="id" name="numberProgress">false</item>
+</resources>
